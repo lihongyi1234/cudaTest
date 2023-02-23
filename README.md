@@ -5,3 +5,6 @@ running environment:
 visual studio 2019
 opencv
 cuda 11.x
+
+zhihu title:
+https://zhuanlan.zhihu.com/p/608592612
